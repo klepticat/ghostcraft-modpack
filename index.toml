@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "d3303c80f7f0ee912a396866edfd412ae16db722df69e0259b966f5ffa6ded95"
+hash = "160a723923b76018aa4c729a327c1038ad767bb353486e2dc165c1f68b3d59b6"
 metafile = true
 
 [[files]]
@@ -270,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "616432ed23fd80ed608dfa051a24b41d5bf0282f387899cf1d545e5cc0cf40be"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "9e444b3cfef7e5874823dc34c529c3ab322fda7ec56d96a06dd3c763bad238df"
 metafile = true
 
 [[files]]
@@ -404,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "2989473cf3506d6657fab2526fff96d597ca470a1af2b649237c9781bab52071"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "74772baafd2cedec7ec37b3d0708e35c74664cd223a585fce805c636e095a1af"
 metafile = true
 
 [[files]]
