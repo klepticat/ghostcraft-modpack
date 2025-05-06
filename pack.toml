@@ -1,0 +1,13 @@
+name = "Ghostcraft"
+author = "klepti"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f5096654094a1a5ac0b562401e55a779ba1c773dce179dc4f543c0df847d145a"
+
+[versions]
+fabric = "0.16.12"
+minecraft = "1.21.1"

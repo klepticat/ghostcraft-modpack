@@ -1,0 +1,13 @@
+name = "Expanded Enderchest"
+filename = "expanded-enderchest-fabric-1.1.1+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a7b7fe27ba7b5f589b98a0d1f59575f49a39ee8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6214731
+project-id = 782799
