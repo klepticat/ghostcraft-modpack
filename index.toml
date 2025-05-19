@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "3bf893ef01f98a6c5279341fc1064b0f78b8c31ab2672cff9da3cdbc6861d3af"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -82,7 +86,7 @@ hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
 file = "config/ftbbackups2.json"
-hash = "8918825d748fa0f95a35ca2656ba3b8f2057d5e3979c6a327210e954bae1aae7"
+hash = "7f25c50732d81548fd9d2f9d3eb893f6cdff46cd9b62d41e04c7702293784494"
 
 [[files]]
 file = "config/ftbessentials.snbt"
@@ -268,6 +272,11 @@ hash = "3db09541f30e5a48f6bcf62a5d6b088d2d203bd6eb0a66bfceab1918ca2015ee"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "41d4f86aa2b5ebc5e60164e0120125a38c0ab2595738818c3bb439e96a58ecd6"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "616432ed23fd80ed608dfa051a24b41d5bf0282f387899cf1d545e5cc0cf40be"
 metafile = true
@@ -367,8 +376,18 @@ hash = "eec16279b36b3341de41760b91675d96bb5028579dabda7c06397c5a0bf6c087"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
+metafile = true
+
+[[files]]
 file = "mods/inv-view.pw.toml"
 hash = "e9d5a92c0c7aa8aca20eb6140ce3b9e3f3b23e650c633982815847fab82d4fd3"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "cf221cc14340dc12c9854d9adc3dd139ac6dc08a2f090a1a88059cb530e6de66"
 metafile = true
 
 [[files]]
@@ -394,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "51ef5f48423cf719d2a4e1111aae2a224f1661de5c706fdfa2f136e07dc655bc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
@@ -427,18 +451,43 @@ hash = "4ce4ea4dc03135e38a87b50ee964b6148348fef35d4708c2ac18c33eb32cce2b"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "fd3ca3a862640f7ad76d46a7e7551e487c3d48e9107e8e1f40e065fe3fd8a4ed"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "0830056b248701ea115778d1ec611dd4cdf1bed4af74c46fd5b0230c4830fca4"
 metafile = true
 
 [[files]]
-file = "mods/sitting.pw.toml"
-hash = "c452db3ecf75c93b6c0c16f32ecafb4294b59361633d029574c4971d726fc8fb"
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "00c0498581d92b4e0c59d669aa671fa860924a906921b0576b5cd3a3300bd4d8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "99fdf3b3b532e4ea49b51a68227c1be390f41b247d452a962e0d7a5763728857"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d6e22a99e0b73a91cfd528aed964bc8acb001188e76804406b998a19f645fbe1"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f5031d53eb32a7b25e0c2347f599805679a49073b86ed4450ca60ec9b72086d1"
+metafile = true
+
+[[files]]
+file = "mods/stitch.pw.toml"
+hash = "7f49106f68a0cc9eea7c1eeea58befa0e557728e0ad8091bc40a254b9e2dd1e7"
 metafile = true
 
 [[files]]
@@ -467,6 +516,11 @@ hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
 
 [[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "782cf988938b2b8cdaa04af35173901423ea970aa63daabae1995d342e984e06"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "919b282dec03a42767a4162f534d1bc188097fff1fb4669402285b120b6245ee"
 metafile = true
@@ -482,14 +536,38 @@ hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
 
 [[files]]
+file = "mods/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "mods/xaerominimap.txt"
+hash = "382989b8305b3a37e0fd800466ea958a049b50e2871fb517811518c8e28a1ad9"
+
+[[files]]
+file = "mods/xaerominimap_entities.json"
+hash = "fea2310b36af8dfb69a9d9d408fdfad8ffadfdc33ed40ffc89937c11930b4269"
+
+[[files]]
+file = "mods/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ef5abb6a4d57a181a5c0ee7de0550cb3e1f7bc48aad490f439f4d49ee1cacb4f"
+hash = "26b7302f9f7049845fa30ac34836bd712e7e5c3d704b7edbea52dc3dcacf5315"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5cf542d8e3d3febe859bd7cdcff781154495804efbd393b9e52218649356928e"
+hash = "f2a4ffa5514ed782a328c109deadb80b55021924565afafac7eeb0c3d33f6b92"
 metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "mods/xaeroworldmap.txt"
+hash = "12fedbf0c70e9c78f9171c28bba29a5b3bded84674eb95a9551c4b4b75da5dd9"
 
 [[files]]
 file = "mods/yacl.pw.toml"
@@ -502,9 +580,14 @@ hash = "29768077955422e894c39f06612e7118c8a3b0cd1629122fd3e48b95bc1625ab"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "2ae5b0fa11f7c2ea80631e7dd0ca15c4f94349415671cd403cfc8a59fcda1bdd"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "4783f0cec51be45b7b8ee803603b54968f0224497f359f450ee58ca61ad7c748"
 
 [[files]]
 file = "servers.dat"
-hash = "423bffd62345d045bd562439b9fdc8610b61bf92e48d7ea3dc91d26d7f78efbc"
+hash = "25030c52f4c68e8e6c6ffd4f685f9e8da0f09bdcf4bc2b4b78c9ee6cd0295ab8"
