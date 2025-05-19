@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/New Text Document.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = ".vscode/settings.json"
 hash = "3bf893ef01f98a6c5279341fc1064b0f78b8c31ab2672cff9da3cdbc6861d3af"
 
