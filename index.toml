@@ -205,6 +205,30 @@ file = "config/worldedit/worldedit.properties"
 hash = "824c8e24d939530b7c452c9b7ec130d8a4cada5df1b5a57d5dcd6cb92d4ba51e"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "382989b8305b3a37e0fd800466ea958a049b50e2871fb517811518c8e28a1ad9"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "fea2310b36af8dfb69a9d9d408fdfad8ffadfdc33ed40ffc89937c11930b4269"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "12fedbf0c70e9c78f9171c28bba29a5b3bded84674eb95a9551c4b4b75da5dd9"
+
+[[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
@@ -265,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "3db09541f30e5a48f6bcf62a5d6b088d2d203bd6eb0a66bfceab1918ca2015ee"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "66b27fa4b5af9a926ddfdbaa91b2599640f7ba6b7b7237cae3a9bb6ceb4c2e91"
 metafile = true
 
 [[files]]
@@ -363,8 +392,8 @@ hash = "ecec35b0813ab2980d75405f63e42287bfa266c48e66b67e22de01b278d9a23c"
 metafile = true
 
 [[files]]
-file = "mods/ghostcraft-fabric-0.0.2.jar"
-hash = "2b2cf2fd17839cf144767d88076c4ec88d856048ae3d8d0c444e3aecddbefb02"
+file = "mods/ghostcraft-fabric-0.1.0.jar"
+hash = "5c1cfc5e2a64106cb3f783c86ff72fc98f7d3f9c51afd4f67861a459c771066f"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -482,11 +511,6 @@ hash = "f5031d53eb32a7b25e0c2347f599805679a49073b86ed4450ca60ec9b72086d1"
 metafile = true
 
 [[files]]
-file = "mods/stitch.pw.toml"
-hash = "7f49106f68a0cc9eea7c1eeea58befa0e557728e0ad8091bc40a254b9e2dd1e7"
-metafile = true
-
-[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "2cab1038acf64247d120a8b47570c15c6a3970f6ca4214b0cc839ca8df2971d9"
 metafile = true
@@ -532,38 +556,14 @@ hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
 
 [[files]]
-file = "mods/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
-
-[[files]]
-file = "mods/xaerominimap.txt"
-hash = "382989b8305b3a37e0fd800466ea958a049b50e2871fb517811518c8e28a1ad9"
-
-[[files]]
-file = "mods/xaerominimap_entities.json"
-hash = "fea2310b36af8dfb69a9d9d408fdfad8ffadfdc33ed40ffc89937c11930b4269"
-
-[[files]]
-file = "mods/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "26b7302f9f7049845fa30ac34836bd712e7e5c3d704b7edbea52dc3dcacf5315"
+hash = "c2b28d62fa91e43f561328caf7f41e62606eda6a508a66496368e8d33c05bb0f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f2a4ffa5514ed782a328c109deadb80b55021924565afafac7eeb0c3d33f6b92"
+hash = "4a2cef2b24fe864c6467567aa2e0fb6b71e22e50f53e36cfea1a2b1bd429ad05"
 metafile = true
-
-[[files]]
-file = "mods/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
-
-[[files]]
-file = "mods/xaeroworldmap.txt"
-hash = "12fedbf0c70e9c78f9171c28bba29a5b3bded84674eb95a9551c4b4b75da5dd9"
 
 [[files]]
 file = "mods/yacl.pw.toml"
