@@ -242,6 +242,11 @@ hash = "f155441f420149bf1aaa26369f812dae328c870bdc2dd7ae842913d72bb27ab0"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "2f42e700bcb723ec1e54938526cd6a8e8f6daacb689d6a5b216f8ccdd87c680e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "9ce55dc09b4b2a28b39ae47d146cfe5399dfc74666d9ae53811bdef4058b3491"
 metafile = true
@@ -342,6 +347,11 @@ hash = "ebf78c59f5a5ec1ae01aa19c697434e693cc0b714a97d616cbf3326025349594"
 metafile = true
 
 [[files]]
+file = "mods/exlines-furniture.pw.toml"
+hash = "086864f43da1fa1d2fda35f8ff7c5f142ef6ec30c8d288a487e562f74533deaa"
+metafile = true
+
+[[files]]
 file = "mods/expanded-enderchest.pw.toml"
 hash = "3a695ffa62c625e1a89e64064af242c835591e88036c27965575548398c54d43"
 metafile = true
@@ -359,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1bcebf42f650151bf068b968e2b27b05c4b278bb9a31f2c0b64c4a462d3ff787"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "31fe856cfb4be0a169cd346540b5ba35c88107b19a15568a11112b38cebb2b62"
 metafile = true
 
 [[files]]
@@ -392,8 +407,13 @@ hash = "ecec35b0813ab2980d75405f63e42287bfa266c48e66b67e22de01b278d9a23c"
 metafile = true
 
 [[files]]
-file = "mods/ghostcraft-fabric-0.1.0.jar"
-hash = "5c1cfc5e2a64106cb3f783c86ff72fc98f7d3f9c51afd4f67861a459c771066f"
+file = "mods/ghostcraft-fabric-0.2.0.jar"
+hash = "5fabd6c2f37b9f4bd4657cc29aa4e64db632c6516bd7b6a1ddfb5e6d11a0943b"
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "cbe2b4d3b946c2753432343196866e84f14c4c10ffc1f173a67cd59faed8af2d"
+metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -481,6 +501,16 @@ hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
 
 [[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "75a4a1dce118acda1dec5ac00272a6d922d3c3a8471a7f7749fba4282bdeb81e"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "a060ffb7d43887630a2dd19023c07f095edc891847adf9c63c19b9dde38b171e"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "fd3ca3a862640f7ad76d46a7e7551e487c3d48e9107e8e1f40e065fe3fd8a4ed"
 metafile = true
@@ -493,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "00c0498581d92b4e0c59d669aa671fa860924a906921b0576b5cd3a3300bd4d8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "d28646a175734542c24e75b8ef3d1f820e672662b8632e9da18fb576fbf0f839"
 metafile = true
 
 [[files]]

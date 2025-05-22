@@ -1,12 +1,12 @@
 name = "Ghostcraft"
 author = "klepti"
-version = "0.0.5"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "07ca3776c2b211f18510cb565712d6eb463bacad36f85ea5953554eb4042d5bb"
+hash = "f0c9e1ed76f83356f43eb97a0c325fbc4a55d08cbb0e953a87e1b4ead0781a0d"
 
 [versions]
 fabric = "0.16.12"
