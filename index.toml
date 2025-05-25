@@ -372,6 +372,11 @@ hash = "1bcebf42f650151bf068b968e2b27b05c4b278bb9a31f2c0b64c4a462d3ff787"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "fafd1147008aa0cc6444317ff2644b11ab54ba756c00843da6edf92da638e222"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "31fe856cfb4be0a169cd346540b5ba35c88107b19a15568a11112b38cebb2b62"
 metafile = true
@@ -461,6 +466,11 @@ hash = "51ef5f48423cf719d2a4e1111aae2a224f1661de5c706fdfa2f136e07dc655bc"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
@@ -484,6 +494,15 @@ metafile = true
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "74772baafd2cedec7ec37b3d0708e35c74664cd223a585fce805c636e095a1af"
 metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "321106b9a028cb1aaff6a8f3dc138ca25abc6128c61ce28bb674b45ad8d39b64"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-lib-fabric-2.0.1+1.21.1.jar"
+hash = "022cb7c7a825af6e7a5f2a2d0527d70afd75d0120bf20cc9ce194e008ca97c21"
 
 [[files]]
 file = "mods/polylib.pw.toml"
