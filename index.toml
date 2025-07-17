@@ -262,6 +262,11 @@ hash = "64a7ef3c36e0345c3ff13cefa7a59c1b70cce1a51e50df0dfe6fff5766a6bdc1"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "b510f08fd7a0441bd75f2deb71c5daaf71cfd10d8ba824503425be5c393611c5"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "29134bdd10f9cc82fbdf0a35fe9ad7aec91222af18e230b3389e016589860974"
 metafile = true
@@ -269,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "c37a11a7bd403bbf1c049626dd81778483d99554608af537555e291f553c6e37"
+metafile = true
+
+[[files]]
+file = "mods/blahaj-fabric.pw.toml"
+hash = "e091c66be5593137766e0f19205877b67e0be46eabbcdf7ae15ba597c2269050"
 metafile = true
 
 [[files]]
@@ -377,6 +387,11 @@ hash = "fafd1147008aa0cc6444317ff2644b11ab54ba756c00843da6edf92da638e222"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "3591fd1d03bd9e21976c718e5260b1225d6fc354415ddecba23f0b8d63f2f938"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "31fe856cfb4be0a169cd346540b5ba35c88107b19a15568a11112b38cebb2b62"
 metafile = true
@@ -412,8 +427,8 @@ hash = "ecec35b0813ab2980d75405f63e42287bfa266c48e66b67e22de01b278d9a23c"
 metafile = true
 
 [[files]]
-file = "mods/ghostcraft-fabric-0.2.0.jar"
-hash = "5fabd6c2f37b9f4bd4657cc29aa4e64db632c6516bd7b6a1ddfb5e6d11a0943b"
+file = "mods/ghostcraft-fabric-0.3.1.jar"
+hash = "734d8de58423fb4cf5479f232e0a127556674ff4d29aad2c0fc9617281421aea"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -540,6 +555,11 @@ hash = "0830056b248701ea115778d1ec611dd4cdf1bed4af74c46fd5b0230c4830fca4"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "dc5fab85b8c8775a2832dda49f5e89a42593414fcddd79f58627a7dd86c78fc6"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "00c0498581d92b4e0c59d669aa671fa860924a906921b0576b5cd3a3300bd4d8"
 metafile = true
@@ -557,6 +577,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d6e22a99e0b73a91cfd528aed964bc8acb001188e76804406b998a19f645fbe1"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "e3f3540b2ecdb2a87b4d6c584ac02b04a620cf92a83022e717d234b8b7272ccf"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "f313bb8e8d4cf4b97153657934625b7ad8ee00914459ef791058b3001735d2b0"
 metafile = true
 
 [[files]]
