@@ -447,6 +447,11 @@ hash = "995022253c8f7292559438fc79946c9864c744832c5e68ff7a021835f07af09c"
 metafile = true
 
 [[files]]
+file = "mods/genshin-instruments.pw.toml"
+hash = "178c2e785063de9598e849624be7ccac1ca12645d4274cba25d5ab9ec528ebd0"
+metafile = true
+
+[[files]]
 file = "mods/ghostcraft-fabric-0.4.1.jar"
 hash = "9ae813b425416e1b635f72c34390641f1c5d7361253df310069aa1ba94aa726d"
 
