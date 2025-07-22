@@ -237,6 +237,10 @@ file = "config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
+file = "mods/Civilians1.21.1-1.3.jar"
+hash = "cca619c0de2dc837ba6dcd555587d733c702cc2105e9d22ada74bd5081266bbf"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "f155441f420149bf1aaa26369f812dae328c870bdc2dd7ae842913d72bb27ab0"
 metafile = true
@@ -294,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/c2me.pw.toml"
 hash = "160a723923b76018aa4c729a327c1038ad767bb353486e2dc165c1f68b3d59b6"
-metafile = true
-
-[[files]]
-file = "mods/civilians.pw.toml"
-hash = "4de4715016bec76c82dd445ae942dc91c6f57af3d92e6cef6aebbc8690b2cd0d"
 metafile = true
 
 [[files]]
