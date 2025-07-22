@@ -1,0 +1,13 @@
+name = "Magic Vibe Decorations (Crystals, Halloween additions)"
+filename = "magic_vibe_decorations-2.8.0-fabric-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a90274dfb92979b24118432d511c0d3e6efebb05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5837794
+project-id = 900435

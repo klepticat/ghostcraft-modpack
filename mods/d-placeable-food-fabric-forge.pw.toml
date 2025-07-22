@@ -1,0 +1,13 @@
+name = ".3D Placeable Food"
+filename = "3d_placeable_food-2.0.0-fabric-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1fb80b6bdcfad2ca75b0a1f7f19513ad650477b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5842576
+project-id = 886102

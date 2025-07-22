@@ -1,0 +1,13 @@
+name = "Civilians"
+filename = "Civilians1.21.1-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "381ca4980cee52772f89f5d69afb072828c32871"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6684215
+project-id = 1170845

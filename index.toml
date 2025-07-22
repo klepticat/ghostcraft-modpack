@@ -297,6 +297,11 @@ hash = "160a723923b76018aa4c729a327c1038ad767bb353486e2dc165c1f68b3d59b6"
 metafile = true
 
 [[files]]
+file = "mods/civilians.pw.toml"
+hash = "4de4715016bec76c82dd445ae942dc91c6f57af3d92e6cef6aebbc8690b2cd0d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
@@ -327,6 +332,11 @@ hash = "9e444b3cfef7e5874823dc34c529c3ab322fda7ec56d96a06dd3c763bad238df"
 metafile = true
 
 [[files]]
+file = "mods/d-placeable-food-fabric-forge.pw.toml"
+hash = "9ef11c6ea05e5714ae5a3e3e22c1b7c421a11c6ea6f64afa0868322f551867a4"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
 metafile = true
@@ -354,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "ebf78c59f5a5ec1ae01aa19c697434e693cc0b714a97d616cbf3326025349594"
+metafile = true
+
+[[files]]
+file = "mods/even-more-instruments.pw.toml"
+hash = "da215694376b28d0eb2a94edb956316ba8cd5dce2d3a0c5ff6d65a5d0c47feff"
 metafile = true
 
 [[files]]
@@ -427,8 +442,13 @@ hash = "ecec35b0813ab2980d75405f63e42287bfa266c48e66b67e22de01b278d9a23c"
 metafile = true
 
 [[files]]
-file = "mods/ghostcraft-fabric-0.3.1.jar"
-hash = "734d8de58423fb4cf5479f232e0a127556674ff4d29aad2c0fc9617281421aea"
+file = "mods/geckolib.pw.toml"
+hash = "995022253c8f7292559438fc79946c9864c744832c5e68ff7a021835f07af09c"
+metafile = true
+
+[[files]]
+file = "mods/ghostcraft-fabric-0.4.1.jar"
+hash = "9ae813b425416e1b635f72c34390641f1c5d7361253df310069aa1ba94aa726d"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -466,6 +486,11 @@ hash = "4271c5cef662563f73b49b6fa06a115ffe93d96accd2730d8f0166f672576c81"
 metafile = true
 
 [[files]]
+file = "mods/magic-vibe-decorations.pw.toml"
+hash = "660b51a43b60bd1679e5f8f29232327e9835e64a94533d4f601714dedb9b3c62"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "de2542dccc57aac9ccb638ab431f2b14e6fd56f36df183f30ae72e8883015eaa"
 metafile = true
@@ -473,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "af4a5ec5dae639e7236e98dd9ef7df5754fca09c0ed16c215644f2ec5f0d50ac"
 metafile = true
 
 [[files]]
@@ -542,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "a060ffb7d43887630a2dd19023c07f095edc891847adf9c63c19b9dde38b171e"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "f62e61c9fac22badf25534a76929dd3cdebf67913de2ddc463eeb7162bbc849c"
 metafile = true
 
 [[files]]
@@ -657,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "29768077955422e894c39f06612e7118c8a3b0cd1629122fd3e48b95bc1625ab"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "b9d687d2b4d66168fdf9bafa2dabc0d50a1b81910d7c71be941508213db2ffdc"
 metafile = true
 
 [[files]]
