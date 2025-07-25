@@ -190,7 +190,7 @@ hash = "4af2e347ce75943c2591af8ce436c35cc06d9225e22e2e0a18730392c0770fea"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "7f99410112d0ea876e4fcac0d4f264fafccf14ce92c16094ef13b43dcaf9585b"
+hash = "5b3e0a29e05beb28c127d02a93ae07866290745e2346d9759d2709115ceea13e"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -235,10 +235,6 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 [[files]]
 file = "config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
-
-[[files]]
-file = "mods/Civilians1.21.1-1.3.jar"
-hash = "cca619c0de2dc837ba6dcd555587d733c702cc2105e9d22ada74bd5081266bbf"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -451,8 +447,8 @@ hash = "178c2e785063de9598e849624be7ccac1ca12645d4274cba25d5ab9ec528ebd0"
 metafile = true
 
 [[files]]
-file = "mods/ghostcraft-fabric-0.4.1.jar"
-hash = "9ae813b425416e1b635f72c34390641f1c5d7361253df310069aa1ba94aa726d"
+file = "mods/ghostcraft-fabric-0.4.2.jar"
+hash = "18f0ad7753ad7ddc314be32ab5c8663499da09536ad90fcf947f6ebf0db89de3"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -502,11 +498,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
-metafile = true
-
-[[files]]
-file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "af4a5ec5dae639e7236e98dd9ef7df5754fca09c0ed16c215644f2ec5f0d50ac"
 metafile = true
 
 [[files]]
