@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3ed8904a184d84b134e20f19a3790152867dafccc1d029c8c8a93051825cd86"
+hash = "73f76546e5669495cecfb3a0d51af94a7a22ab6ef653e897cf2a399caf10d359"
 metafile = true
 
 [[files]]
@@ -447,8 +447,8 @@ hash = "178c2e785063de9598e849624be7ccac1ca12645d4274cba25d5ab9ec528ebd0"
 metafile = true
 
 [[files]]
-file = "mods/ghostcraft-fabric-0.4.2.jar"
-hash = "18f0ad7753ad7ddc314be32ab5c8663499da09536ad90fcf947f6ebf0db89de3"
+file = "mods/ghostcraft-fabric-0.5.0.jar"
+hash = "d986255de668c7bcf7294039a01ea1bbc08eaa185f224b65f8548227721b9f4a"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -543,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/player-animation-lib-fabric-2.0.1+1.21.1.jar"
 hash = "022cb7c7a825af6e7a5f2a2d0527d70afd75d0120bf20cc9ce194e008ca97c21"
+
+[[files]]
+file = "mods/player-particles.pw.toml"
+hash = "6d64b705e9cc63b7e5ae36cb93a882e2b815dca66d4692eed40245190c5c178f"
+metafile = true
 
 [[files]]
 file = "mods/polylib.pw.toml"
