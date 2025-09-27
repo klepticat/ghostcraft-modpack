@@ -1,0 +1,13 @@
+name = "Better Server Packs (Fabric)"
+filename = "BetterServerPacksFabric-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PmZAv6IA/versions/2lyP6G9v/BetterServerPacksFabric-1.1.0.jar"
+hash-format = "sha1"
+hash = "e7143958b10c4c5dc6d20cbd7068bfd575273cf0"
+
+[update]
+[update.modrinth]
+mod-id = "PmZAv6IA"
+version = "2lyP6G9v"

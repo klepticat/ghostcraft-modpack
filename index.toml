@@ -277,6 +277,11 @@ hash = "c37a11a7bd403bbf1c049626dd81778483d99554608af537555e291f553c6e37"
 metafile = true
 
 [[files]]
+file = "mods/better-server-packs-fabric.pw.toml"
+hash = "a2ed2596aaaeb9b3288a2e9fac72fcb11d42f16838db945f22b97750e0380292"
+metafile = true
+
+[[files]]
 file = "mods/blahaj-fabric.pw.toml"
 hash = "e091c66be5593137766e0f19205877b67e0be46eabbcdf7ae15ba597c2269050"
 metafile = true
@@ -447,8 +452,8 @@ hash = "178c2e785063de9598e849624be7ccac1ca12645d4274cba25d5ab9ec528ebd0"
 metafile = true
 
 [[files]]
-file = "mods/ghostcraft-fabric-0.6.0.jar"
-hash = "41e0476d84ab1019ff9577f41d2f36e06b6eae4b2f04c76164d3d517f98ef723"
+file = "mods/ghostcraft-fabric-0.7.0.jar"
+hash = "69f384b91a39c9d8f06202275b831647fabb2c73df449aabdd9b8130d7a51a0e"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -526,6 +531,11 @@ hash = "8e81afce82eba3fafa0698e949bd2409243530036f2f74532dfb009f0ca65d18"
 metafile = true
 
 [[files]]
+file = "mods/otterlib.pw.toml"
+hash = "1707f845fe312f8ce8c47fea0e3f1491e380d073266fff2126e01d4e3818aa8b"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "2989473cf3506d6657fab2526fff96d597ca470a1af2b649237c9781bab52071"
 metafile = true
@@ -592,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "dc5fab85b8c8775a2832dda49f5e89a42593414fcddd79f58627a7dd86c78fc6"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "897c805e7929345f84cc650a651229b67f32308129252e3ccab71260b8511a8f"
 metafile = true
 
 [[files]]
