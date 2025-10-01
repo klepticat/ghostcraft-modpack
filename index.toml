@@ -481,6 +481,11 @@ hash = "cf221cc14340dc12c9854d9adc3dd139ac6dc08a2f090a1a88059cb530e6de66"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8e963bfd31c125959b4ebe2e20ef5888399f09490c253770b87ef4affcbcb22f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3fdc92ff58a76637e11877ce3855dfee8448390e471a7597b842e744574b1c95"
 metafile = true
@@ -607,11 +612,6 @@ metafile = true
 [[files]]
 file = "mods/sit!.pw.toml"
 hash = "897c805e7929345f84cc650a651229b67f32308129252e3ccab71260b8511a8f"
-metafile = true
-
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "00c0498581d92b4e0c59d669aa671fa860924a906921b0576b5cd3a3300bd4d8"
 metafile = true
 
 [[files]]
