@@ -452,8 +452,8 @@ hash = "178c2e785063de9598e849624be7ccac1ca12645d4274cba25d5ab9ec528ebd0"
 metafile = true
 
 [[files]]
-file = "mods/ghostcraft-fabric-0.18.2.jar"
-hash = "b5ce400c6f3280beb87673904cbafc7a0c510540c148d56345897edc9513908f"
+file = "mods/ghostcraft-fabric-0.18.3.jar"
+hash = "639708214a1e61866fdd0c0de89f2110526d087cc18bf66d12f6bd6cb421e24f"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
